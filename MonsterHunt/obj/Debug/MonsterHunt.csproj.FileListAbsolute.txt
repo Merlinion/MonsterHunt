@@ -1,0 +1,40 @@
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\bin\Debug\MonsterHunt.exe.config
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\bin\Debug\MonsterHunt.exe
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\bin\Debug\MonsterHunt.pdb
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.csprojAssemblyReference.cache
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.Form1.resources
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.Properties.Resources.resources
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.csproj.GenerateResource.cache
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.csproj.CoreCompileInputs.cache
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.exe
+C:\Users\Patrik\Desktop\Matyi\MonsterHunt\obj\Debug\MonsterHunt.pdb
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.csprojAssemblyReference.cache
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.Form1.resources
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.Properties.Resources.resources
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.csproj.GenerateResource.cache
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.csproj.CoreCompileInputs.cache
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.exe
+C:\Users\aerocool\Desktop\MonsterHunt\obj\Debug\MonsterHunt.pdb
+C:\Users\aerocool\Desktop\MonsterHunt\bin\Debug\MonsterHunt.exe.config
+C:\Users\aerocool\Desktop\MonsterHunt\bin\Debug\MonsterHunt.exe
+C:\Users\aerocool\Desktop\MonsterHunt\bin\Debug\MonsterHunt.pdb
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\bin\Debug\MonsterHunt.exe.config
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\bin\Debug\MonsterHunt.exe
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\bin\Debug\MonsterHunt.pdb
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.csprojAssemblyReference.cache
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.Form1.resources
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.Properties.Resources.resources
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.csproj.GenerateResource.cache
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.csproj.CoreCompileInputs.cache
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.exe
+C:\Users\aerocool\OneDrive\Asztali gép\MonsterHunt\obj\Debug\MonsterHunt.pdb
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\bin\Debug\MonsterHunt.exe.config
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\bin\Debug\MonsterHunt.exe
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\bin\Debug\MonsterHunt.pdb
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.csprojAssemblyReference.cache
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.Form1.resources
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.Properties.Resources.resources
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.csproj.GenerateResource.cache
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.csproj.CoreCompileInputs.cache
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.exe
+C:\Users\aerocool\OneDrive\Asztali gép\Iskolai\C# formok\Matyiproj1\MonsterHunt\obj\Debug\MonsterHunt.pdb

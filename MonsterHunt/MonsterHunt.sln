@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MonsterHunt", "MonsterHunt.csproj", "{72A19CE5-E285-438C-95E3-402010F051ED}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{72A19CE5-E285-438C-95E3-402010F051ED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{72A19CE5-E285-438C-95E3-402010F051ED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{72A19CE5-E285-438C-95E3-402010F051ED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{72A19CE5-E285-438C-95E3-402010F051ED}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {471F6872-933B-4A26-82DE-D9D6FE21A84B}
+	EndGlobalSection
+EndGlobal
